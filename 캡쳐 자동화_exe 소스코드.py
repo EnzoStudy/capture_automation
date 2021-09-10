@@ -1,3 +1,11 @@
+"""
+https://infinitt.tistory.com/291
+
+참고하여 소스코드 받음
+
+"""
+
+
 import sys
 from PyQt5.QtWidgets import QProgressBar,QMainWindow, QFileDialog,QInputDialog,  QApplication, QWidget, QPushButton, QToolTip, QAction, qApp, QFileDialog
 from PyQt5.QtGui import QIcon
